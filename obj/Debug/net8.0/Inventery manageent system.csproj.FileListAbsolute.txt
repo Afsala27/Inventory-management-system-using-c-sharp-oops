@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Dot Net\Inventery manageent system\bin\Debug\net8.0\Inventery manageent system.exe
+C:\Users\admin\Desktop\Dot Net\Inventery manageent system\bin\Debug\net8.0\Inventery manageent system.deps.json
+C:\Users\admin\Desktop\Dot Net\Inventery manageent system\bin\Debug\net8.0\Inventery manageent system.runtimeconfig.json
+C:\Users\admin\Desktop\Dot Net\Inventery manageent system\bin\Debug\net8.0\Inventery manageent system.dll
+C:\Users\admin\Desktop\Dot Net\Inventery manageent system\bin\Debug\net8.0\Inventery manageent system.pdb
+C:\Users\admin\Desktop\Dot Net\Inventery manageent system\obj\Debug\net8.0\Inventery manageent system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Dot Net\Inventery manageent system\obj\Debug\net8.0\Inventery manageent system.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Dot Net\Inventery manageent system\obj\Debug\net8.0\Inventery manageent system.AssemblyInfo.cs
+C:\Users\admin\Desktop\Dot Net\Inventery manageent system\obj\Debug\net8.0\Inventery manageent system.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Dot Net\Inventery manageent system\obj\Debug\net8.0\Inventery manageent system.dll
+C:\Users\admin\Desktop\Dot Net\Inventery manageent system\obj\Debug\net8.0\refint\Inventery manageent system.dll
+C:\Users\admin\Desktop\Dot Net\Inventery manageent system\obj\Debug\net8.0\Inventery manageent system.pdb
+C:\Users\admin\Desktop\Dot Net\Inventery manageent system\obj\Debug\net8.0\Inventery manageent system.genruntimeconfig.cache
+C:\Users\admin\Desktop\Dot Net\Inventery manageent system\obj\Debug\net8.0\ref\Inventery manageent system.dll
